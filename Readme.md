@@ -60,6 +60,13 @@ This mirrors tooling commonly used in **inventory systems**, **e-commerce onboar
 
 ---
 
+## 🧩 Application Interface
+
+This screenshot shows the main interface of the Part Data Mapping Tool. It includes part entry fields, manufacturer/category selectors, and Copilot-assisted search functionality.
+![Main UI Overview](ui-overview.png)
+
+---
+
 ## 🔐 Sanitization Notes
 
 To make this project safe for public sharing:
@@ -102,4 +109,5 @@ A full license file in this repository reinforces these restrictions.
 
 📌 Notes
 This code is intentionally incomplete and non‑functional.
+
 Its purpose is to demonstrate architecture, coding style, and automation expertise, not to operate against any real software.
